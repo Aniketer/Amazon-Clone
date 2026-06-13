@@ -1,0 +1,1 @@
+# An Amazon-inspired e-commerce web application featuring a responsive user interface, product listings, search bar, shopping cart, and modern front-end design. 
